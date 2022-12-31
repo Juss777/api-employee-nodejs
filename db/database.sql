@@ -12,3 +12,10 @@ CREATE TABLE employee(
 SHOW TABLES;
 
 describe employee;
+
+INSERT INTO employee VALUES 
+    (1, 'Joe', 1000),
+    (2, 'Henry', 1500),
+    (3, 'Sam', 1300),
+    (4, 'Max', 2000),
+    (5, 'Jeff', 1800),
